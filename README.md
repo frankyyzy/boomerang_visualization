@@ -11,4 +11,6 @@ Only some of the two blades boomerangs will work now. Other pictures are for exp
 
 Some parameters may be customized at the beginning of the code. 
 
-<img src='http://g.recordit.co/Lgskip3nWU.gif' title='gif' width='' alt='gif' />
+<img src='graphs.png' />
+
+<img src='http://g.recordit.co/Lgskip3nWU.gif' title='gif' width='' alt='gif' height=800 />
